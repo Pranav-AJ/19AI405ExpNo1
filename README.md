@@ -4,7 +4,7 @@
 
 <h3>Name: A.J.PRANAV</h3>
 
-<h3>Register Number 212222230107</h3>
+<h3>Register Number: 212222230107</h3>
 
 
 <h3>AIM:</h3>
